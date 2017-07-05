@@ -3,4 +3,4 @@ Plunket is a online terminal I created with react, the future goal for this repo
 
 Check it out here, it's based on the ubuntu terminal https://tjksec.github.io/plunket/build/
 
-** please excuse any gramtical errors, i build this in like 3 hours and wasnt focusing on every small detail. but i will fix them all eventually **
+**please excuse any gramtical errors, i build this in like 3 hours and wasnt focusing on every small detail. but i will fix them all eventually**
